@@ -19,10 +19,6 @@ Python 3.6<br>
 
 
 <br>
-### Citation
-
-
-<br>
 
 ### License
 TAL License

@@ -3,7 +3,7 @@
 This repository is the implementation of  Mathematical Word Problem Generation from Commonsense Knowledge
 Graph and Equations
 
-![Architecture](misc/architecture.png)
+![Architecture](misc/img1.png)
 
 <br>
 

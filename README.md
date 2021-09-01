@@ -1,1 +1,12 @@
 # MaKE
+
+This repository is the implementation of  Mathematical Word Problem Generation from Commonsense Knowledge
+Graph and Equations
+
+![Architecture](misc/architecture.png)
+
+<br>
+
+### Dependencies
+Python 3.6<br>
+[Pytorch](https://pytorch.org) >= 1.4.0

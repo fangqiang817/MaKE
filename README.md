@@ -10,3 +10,10 @@ Graph and Equations
 ### Dependencies
 Python 3.6<br>
 [Pytorch](https://pytorch.org) >= 1.4.0
+
+<br>
+
+### Results
+
+![res](misc/res.png)
+

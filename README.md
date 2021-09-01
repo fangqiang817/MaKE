@@ -17,3 +17,12 @@ Python 3.6<br>
 
 ![res](misc/res.png)
 
+
+<br>
+### Citation
+
+
+<br>
+
+### License
+TAL License

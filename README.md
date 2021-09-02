@@ -13,7 +13,7 @@ Graph and Equations
 - To develop locally, please follow th instruction below:
 
 ```shell
-    git clone https://github.com/fangqiang817/MaKE
+    git clone https://github.com/fangqiang817/MaKE.git
     cd MaKE
     pip install -r requirements.txt
 ```
@@ -23,13 +23,15 @@ Graph and Equations
 ## Preprocess
 - please refer to the jupyter notebook: data/preprocess_data.ipynb
 
+<br>
+
 ## Train
 You can train the model as follow:
 ```
-python train_*.py
+    python train_*.py
 ```
 
-
+<br>
 
 ## Results
 

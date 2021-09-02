@@ -11,11 +11,12 @@ Graph and Equations
 - Python >= 3.7<br>
 - [Pytorch](https://pytorch.org) >= 1.5.0
 - To develop locally, please follow th instruction below:
-'''
-git clone https://github.com/fangqiang817/MaKE
-cd MaKE
-pip install -r requirements.txt
-'''
+
+```shell
+    git clone https://github.com/fangqiang817/MaKE
+    cd MaKE
+    pip install -r requirements.txt
+```
 
 <br>
 
@@ -24,9 +25,9 @@ pip install -r requirements.txt
 
 ## Train
 You can train the model as follow:
-'''
+```
 python train_*.py
-'''
+```
 
 
 

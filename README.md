@@ -21,15 +21,23 @@ Graph and Equations
 <br>
 
 ## Preprocess
-- please refer to the jupyter notebook: data/preprocess_data.ipynb
+- Please refer to the code: preprocess_data.py
+- The original data: ./data
+- Our preprocessing results: ./processed_data
 
 <br>
 
-## Train
+## Train & Test
 You can train the model as follow:
 ```
     python train_*.py
 ```
+
+You can test the model as follow:
+```
+    python ./test/gen_*.py
+```
+
 
 <br>
 
